@@ -31,8 +31,8 @@ Instead, robustness is improved through augmentation and regularization.</h6>
 
 <h4>Training Strategies</h4>
 <ol>
-<li>Frozen training of the classification head<li>
-<li>Fine-Tuning of the upper convolutional layers with a reduced learning rate<li>
+<li>Frozen training of the classification head</li>
+<li>Fine-Tuning of the upper convolutional layers with a reduced learning rate</li>
 </ol>
 <h5>This balances stability and domain adaptation.</h5>
 
@@ -44,6 +44,7 @@ Instead, robustness is improved through augmentation and regularization.</h6>
 <h4>Author</h4>
 
 <b>Rohan Saikumar</b>
+
 
 
 
